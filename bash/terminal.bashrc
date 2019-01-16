@@ -12,5 +12,5 @@ PS1+="\[${orange}\]\u"; #username
 PS1+="\[${white}\] in ";
 PS1+="\[${green}\]\W "; #working directory
 #PS1+="\n";
-PS1+="\[${white}\]\$ \[${reset}\]"; # '$' (and reset color)
+PS1+="\[${white}\]\$ \[${reset}\]"; # '$' (color resetting)
 export PS1;
